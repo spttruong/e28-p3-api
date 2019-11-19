@@ -102,21 +102,6 @@
     },
     {
       "id": 7,
-      "title": "The Office Commute 2",
-
-      "top": [
-        "H&M Duffel (Dark Navy)",
-        "Banana Republic Non-Iron Tailored Slim-fit Shirt"
-      ],
-      "accessories": [],
-      "bottom": "Everlane Slim-straight Chinos (Khaki)",
-      "footwear": "Ted Baker Ashcroft 4 (Black)",
-
-      "description": "Substitute the fleece jacket for the duffel (apparently that's what these kinds of jackets are called) and we get this outfit. I really just wanted to see if this jacket could be paired with a dress shirt since I feel like this jacket leans more on the formal side of outerwear, even if just by a little. I think it looks...okay.",
-      "categories": ["business casual", "jacket", "chinos", "khakis", "boots"]
-    },
-    {
-      "id": 8,
       "title": "Friday Night",
 
       "top": [
@@ -131,7 +116,7 @@
       "categories": ["casual", "sneakers"]
     },
     {
-      "id": 9,
+      "id": 8,
       "title": "Just Kickin It (Green)",
 
       "top": ["Structure Vintage Shirt (Forest Green)"],
@@ -143,7 +128,7 @@
       "categories": ["casual", "chinos", "khakis"]
     },
     {
-      "id": 10,
+      "id": 9,
       "title": "Just Kickin It (Red)",
 
       "top": ["Chaps Cotton Flannel (Black, Red, Olive)"],
@@ -155,7 +140,7 @@
       "categories": ["casual", "flannel", "chinos", "khakis", "sneakers"]
     },
     {
-      "id": 11,
+      "id": 10,
       "title": "Date Night",
 
       "top": [
@@ -170,7 +155,7 @@
       "categories": ["casual", "chinos", "leather shoes"]
     },
     {
-      "id": 12,
+      "id": 11,
       "title": "Look Good, Feel Good",
 
       "top": [
@@ -185,7 +170,7 @@
       "categories": ["business casual", "jacket", "chinos", "leather shoes"]
     },
     {
-      "id": 13,
+      "id": 12,
       "title": "Preppy Oatmeal",
 
       "top": [
