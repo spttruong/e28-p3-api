@@ -1,1 +1,219 @@
+{
+  "outfits": [
+    {
+      "id": 1,
+      "title": "Rugged Mustard",
+      "clothes": {
+        "top": [
+          "Goodfellow Flannel (Mustard)",
+          "Ted Baker White Cotton V-neck Undershirt"
+        ],
+        "accessories": [],
+        "bottom": "Everlane Slim-fit Dark Wash Jeans",
+        "footwear": "Ted Baker Ashcroft 4 (Black)"
+      },
+      "description": "Ironically, I am not the biggest fan of mustard, the sauce. However, this flannel really caught my eye as a quality layering piece. It's sturdy, comfortable, and eye-catching (in my opinion). It errs on the less breathable side despite being 100% cotton due to the thickness. I think it's best worn on a chillier day.",
+      "categories": ["casual", "flannel", "jeans", "boots"]
+    },
+    {
+      "id": 2,
+      "title": "Navy and White",
+      "clothes": {
+        "top": [
+          "H&M Duffel (Dark Navy)",
+          "Ted Baker White Cotton V-neck Undershirt"
+        ],
+        "accessories": [],
+        "bottom": "Everlane Slim-fit Dark Wash Jeans",
+        "footwear": "New Balance 574 (White)"
+      },
+      "description": "I like this jacket. The silhouette has clean lines throughout. I feel like this outfit is lacking a layering piece between the undershirt and the jacket. Honestly I just wanted to see how this jacket looked with my currently favorite jeans. I'm a sucker for dark wash denim, a staple in anyone's wardrobe if you ask me. I also pair the jeans with a pair of white New Balances. Try naming a more classic combination than jeans and white sneakers. I'll wait.",
+      "categories": ["casual", "jacket", "jeans", "sneakers"]
+    },
+    {
+      "id": 3,
+      "title": "A Pinch of Streetwear",
+      "clothes": {
+        "top": [
+          "Adidas Parka (Blue)",
+          "Ted Baker White Cotton V-neck Undershirt"
+        ],
+        "accessories": [],
+        "bottom": "Everlane Slim-fit Dark Wash Jeans",
+        "footwear": "New Balance 574 (White)"
+      },
+      "description": "I am a fan of the loose fit of the parka and appreciate the very subtle Adidas branding on the left chest area. Sometimes I don't want to brandish the Three Stripes you know? This parka has kept me plenty warm since it comes with a (removable) fleece lining. I'd often wear it during the fall and winter. If my Adidas Ultraboosts weren't in the wash at the time of taking this photo, you can bet they'd be a part of this outfit.",
+      "categories": ["casual", "jacket", "jeans", "sneakers"]
+    },
+    {
+      "id": 4,
+      "title": "The Flannel",
+      "clothes": {
+        "top": [
+          "J.Crew Woven Plaid Flannel (Blue, Yellow)",
+          "Ted Baker White Cotton V-neck Undershirt"
+        ],
+        "accessories": [],
+        "bottom": "Everlane Slim-fit Dark Wash Jeans",
+        "footwear": "New Balance 574 (White)"
+      },
+      "description": "Pairing a flannel with a pair of jeans or chinos is such a simple outfit that it almost feels incomplete. It's possible to layer a jacket or sweater on top of the flannel, but depending on the weather and the occasion, it's also very possible to wear it on its own. I do however, appreciate the fact it takes little mental energy on my part to settle on an outfit. Call me lazy, but you can catch me in this outfit pretty often",
+      "categories": ["casual", "flannel", "jeans", "sneakers"]
+    },
+    {
+      "id": 5,
+      "title": "The Office Commute",
+      "clothes": {
+        "top": [
+          "Uniqlo Fleece Jacket (Forest Green)",
+          "Banana Republic Non-Iron Tailored Slim-fit Shirt"
+        ],
+        "accessories": [
+          "Square-ended Tie (Black)",
+          "Ted Baker Grey Leather Watch",
+          "Leather Belt (Brown)"
+        ],
+        "bottom": "Everlane Slim-straight Chinos (Khaki)",
+        "footwear": "Ted Baker Sipadan 3 Leather Oxford (Brown)"
+      },
+      "description": "I find fleece jackets to be another versatile staple to a wardrobe. They're simple to layer, whether you're dressed up or down. It doesn't really matter. I could have just as easily worn this jacket on a morning jog, lounging around at home, or getting groceries. It just so happens to also go well with a shirt and tie on a chilly day. The foresty green plays nicely with the other earthy tones of the belt, pants, and shoes.",
+      "categories": [
+        "business casual",
+        "jacket",
+        "chinos",
+        "khakis",
+        "leather shoes"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Slightly Dressed-up White and Navy",
+      "clothes": {
+        "top": [
+          "H&M Duffel (Dark Navy)",
+          "J.Crew Lightweight Oxford Shirt (White)"
+        ],
+        "accessories": ["Ted Baker Grey Leather Watch"],
+        "bottom": "Quicksilver Slim-Straight Dark Wash Jeans",
+        "footwear": "New Balance 574 (White)"
+      },
+      "description": "I try to spruce up the 'White and Navy' outfit layering on the white oxford shirt, which helps maintain the same color scheme I was going for. However, I think I could improve on this outfit by also dressing up my footwear. The sneakers seem out of place now. They do seem slightly more acceptable to my eyes when the jacket is off though.",
+      "categories": ["casual", "jacket", "jeans", "sneakers"]
+    },
+    {
+      "id": 7,
+      "title": "The Office Commute 2",
+      "clothes": {
+        "top": [
+          "H&M Duffel (Dark Navy)",
+          "Banana Republic Non-Iron Tailored Slim-fit Shirt"
+        ],
+        "accessories": [],
+        "bottom": "Everlane Slim-straight Chinos (Khaki)",
+        "footwear": "Ted Baker Ashcroft 4 (Black)"
+      },
+      "description": "Substitute the fleece jacket for the duffel (apparently that's what these kinds of jackets are called) and we get this outfit. I really just wanted to see if this jacket could be paired with a dress shirt since I feel like this jacket leans more on the formal side of outerwear, even if just by a little. I think it looks...okay.",
+      "categories": ["business casual", "jacket", "chinos", "khakis", "boots"]
+    },
+    {
+      "id": 8,
+      "title": "Friday Night",
+      "clothes": {
+        "top": [
+          "H&M LOGG Denimn Shirt",
+          "Ted Baker White Cotton V-neck Undershirt"
+        ],
+        "accessories": ["Ted Baker Grey Leather Watch"],
+        "bottom": "Quicksilver Slim-Straight Dark Wash Jeans",
+        "footwear": "New Balance 574 (White)"
+      },
+      "description": "I'd wear this outfit to go out for dinner or hit up a few bars or the club with a group of friends. I'm a fan of all-dark colors, so long as it's not monocolor (though I make an exception for black on black). I think this works because of how my top and bottom are slightly different shades of blue. It also definitely helps that dark colors are more slimming. Even though I'm wearing denim on denim, the fact that they're dark wash as opposed to light wash makes this outfit more 'muted' or 'quiet' if that makes sense.",
+      "categories": ["casual", "sneakers"]
+    },
+    {
+      "id": 9,
+      "title": "Just Kickin It (Green)",
+      "clothes": {
+        "top": ["Structure Vintage Shirt (Forest Green)"],
+        "accessories": ["Ted Baker Grey Leather Watch"],
+        "bottom": "Everlane Slim-straight Chinos (Khaki)",
+        "footwear": "Sperry Top-Sider Original Leather Boat Shoe"
+      },
+      "description": "This outfit is a spin on the generic flannel outfit. The shirt and pants are more loose and baggy. I picked this shirt up at a Goodwill a few years ago, where it immediately caught my eye. I think it has character. This would be my go-to for a really casual get-together with some friends.",
+      "categories": ["casual", "chinos", "khakis"]
+    },
+    {
+      "id": 10,
+      "title": "Just Kickin It (Red)",
+      "clothes": {
+        "top": ["Chaps Cotton Flannel (Black, Red, Olive)"],
+        "accessories": ["Ted Baker Grey Leather Watch"],
+        "bottom": "Everlane Slim-straight Chinos (Khaki)",
+        "footwear": "New Balance 574 (White)"
+      },
+      "description": "'Just Kickin It' meets the flannel. There isn't much to say about this outfit. I changed up the top to add a little variety. I like to have options with my colors. I like the texture contrast from the flannel and pants.",
+      "categories": ["casual", "flannel", "chinos", "khakis", "sneakers"]
+    },
+    {
+      "id": 11,
+      "title": "Date Night",
+      "clothes": {
+        "top": [
+          "Old Navy Slim Fit Shirt (Navy)",
+          "Ted Baker White Cotton V-neck Undershirt"
+        ],
+        "accessories": [],
+        "bottom": "Goodfellow Hennepin Tech Chinos (Olive)",
+        "footwear": "Ted Baker Sipadan 3 Leather Oxford (Brown)"
+      },
+      "description": "Sometimes you want to be a bit more dressed up, yet also give off a relaxed vibe, hence the untucked shirt. Maybe I wouldn't wear this for fine dining, but I believe this outfit gets a pass for dinner. I found that navy goes surprisingly well with olive. The addition of the leather shoes is what makes this outfit.",
+      "categories": ["casual", "chinos", "leather shoes"]
+    },
+    {
+      "id": 12,
+      "title": "Look Good, Feel Good",
+      "clothes": {
+        "top": [
+          "H&M Duffel (Dark Navy)",
+          "Banana Republic Non-Iron Tailored Slim-fit Shirt"
+        ],
+        "accessories": ["Leather Belt (Brown)"],
+        "bottom": "Goodfellow Hennepin Tech Chinos (Olive)",
+        "footwear": "Ted Baker Sipadan 3 Leather Oxford (Brown)"
+      },
+      "description": "What goes with olive just as well as navy, if not better? Light blue. I feel like this color combination is some kind of underrated hidden gem. This speaks more to my ignorance about style and color pallets than anything. I think it's fairly well known that grey can go well with blues, but olive just adds another dimension. It fulfills a similar role here to that of a pair of dark grey pants. However, the hint of green accentuates the brown belt and shoes. Maybe it's like seeing a clear blue sky overlooking a lush forest. Who am I kidding? I just really like this outfit.",
+      "categories": ["business casual", "jacket", "chinos", "leather shoes"]
+    },
+    {
+      "id": 13,
+      "title": "Look Okay, Feel Eh",
+      "clothes": {
+        "top": [
+          "Bosideng Bomber (Blue)",
+          "Banana Republic Non-Iron Tailored Slim-fit Shirt"
+        ],
+        "accessories": ["Ted Baker Grey Leather Watch", "Leather Belt (Brown)"],
+        "bottom": "Goodfellow Hennepin Tech Chinos (Olive)",
+        "footwear": "Ted Baker Sipadan 3 Leather Oxford (Brown)"
+      },
+      "description": "In essence, this outfit SHOULD be giving off a similar sense of cohesion as the 'Look Good, Feel Good' outfit but something doesn't seem right. I think it is the flimsiness and wrinkles of the bomber jacket. It doesn't look quite as sharp as the navy dussel jacket, which contributed to a sleeker silhouette.",
+      "categories": ["business casual", "jacket", "chinos", "leather shoes"]
+    },
+    {
+      "id": 14,
+      "title": "Preppy Oatmeal",
+      "clothes": {
+        "top": [
+          "Hazzys Quarter Zip Sweater (Oatmeal",
+          "Banana Republic Non-Iron Tailored Slim-fit Shirt"
+        ],
+        "accessories": ["Ted Baker Grey Leather Watch"],
+        "bottom": "Goodfellow Hennepin Tech Chinos (Olive)",
+        "footwear": "Ted Baker Sipadan 3 Leather Oxford (Brown)"
+      },
+      "description": "Oatmeal. Is it darker cream? Or is it lighter tan? Regardless, it is a very versitile color and can be easily integrated many outfits.",
+      "categories": [""]
+    }
+  ]
+}
 
