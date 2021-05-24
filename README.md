@@ -1,1 +1,1 @@
-# Mock API for vuemywardrobe VueJS project
+# Mock API for vuemycloset VueJS project
