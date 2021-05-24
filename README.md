@@ -1,1 +1,1 @@
-# e28-p3-api
+# Mock API for vuemywardrobe VueJS project
